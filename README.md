@@ -1,1 +1,1 @@
-### Grupowy projekt zaliczeniowy, w którym stworzyliśmy od podstaw grę "Saper" wraz z opisem.
+### Grupowy projekt, w którym odtworzyliśmy od podstaw grę "Saper". Projekt zostął wykonany w C++ przy użyciu biblioteki "wxWidgets". Do projektu została dołączona dokumentacja.
